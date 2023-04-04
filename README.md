@@ -4,7 +4,7 @@
 
 #### ¿Como acceder?
 
-Para acceder se tienen los siguientes usuarios, cada uno con funciones diferentes de acuerdo a su rol:
+Para acceder se tienen los siguientes usuarios cada uno con funciones diferentes de acuerdo a su rol:
 
 ADMINISTRADOR  👨‍💻
 
