@@ -1,0 +1,3 @@
+El sistema de recuperar contraseña fue realizado pero solo funciona de forma offline a traves del localhost, ya que para poder usarse se debe pagar!
+
+LEER README.ME para mas informacion
