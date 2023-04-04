@@ -32,3 +32,4 @@ password: empleado123
 
 - Si deseas cambiar la contraseña o correo de cualquier usuario, puedes hacerlo ingresando como administrador.
 - El sistema de recuperar contraseña solo funciona de forma offline, en linea se debe pagar para poder utilizarse.
+- La base de datos se encuentra en la carpeta database bajo el nombre de "casalimpia_db.sql". 
