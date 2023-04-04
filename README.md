@@ -9,7 +9,7 @@ Para acceder se tienen los siguientes usuarios cada uno con funciones diferentes
 ADMINISTRADOR  👨‍💻
 
 
-emal: juan.medina@urbe.edu.ve
+email: juan.medina@urbe.edu.ve
 password: medina123
 
 
